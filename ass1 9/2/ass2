@@ -1,0 +1,5 @@
+n=int(input("enter the first number"))
+if n%2==0:
+pirnt("given number is the even number")
+else:
+print("given numberis the odd number")
